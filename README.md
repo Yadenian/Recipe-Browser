@@ -4,13 +4,12 @@ A modern Single Page Application for browsing recipes built with React, Redux To
 
 ## Features
 
-- 🍳 Browse recipes from DummyJSON API
-- 🔍 Search recipes by name
-- ❤️ Add recipes to favorites
-- 📱 Responsive design with native CSS
-- 🏗️ Clean architecture with feature-based structure
-- ⚡ Fast development with Vite
-- 📦 Production builds with Webpack
+-  Browse recipes from DummyJSON API
+-  Search recipes by name
+-  Add recipes to favorites
+-  Responsive design with native CSS
+-  Clean architecture with feature-based structure
+-  Production builds with Webpack
 
 ## Tech Stack
 
@@ -46,21 +45,6 @@ src/
 ```bash
 npm install
 ```
-
-### Development (Vite)
-
-```bash
-npm run dev
-```
-
-The app will be available at `http://localhost:3000`
-
-### Build (Vite)
-
-```bash
-npm run build
-```
-
 ### Build (Webpack)
 
 ```bash
@@ -89,6 +73,3 @@ npm run preview
 
 This application uses the [DummyJSON Recipes API](https://dummyjson.com/docs/recipes).
 
-## License
-
-MIT
