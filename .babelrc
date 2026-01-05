@@ -8,20 +8,5 @@
     ["@babel/preset-react", {
       "runtime": "automatic"
     }]
-  ],
-  "plugins": [
-    [
-      "module-resolver",
-      {
-        "root": ["./src"],
-        "alias": {
-          "@": "./src",
-          "@features": "./src/features",
-          "@shared": "./src/shared",
-          "@hooks": "./src/hooks",
-          "@pages": "./src/pages"
-        }
-      }
-    ]
   ]
 }

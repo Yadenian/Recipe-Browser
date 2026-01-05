@@ -45,10 +45,16 @@ src/
 ```bash
 npm install
 ```
+
+### Running
+```bash
+npm run dev
+```
+
 ### Build (Webpack)
 
 ```bash
-npm run build:webpack
+npm run build
 ```
 
 ### Preview
