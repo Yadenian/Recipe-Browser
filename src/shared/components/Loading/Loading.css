@@ -26,7 +26,7 @@
   font-size: 1rem;
 }
 
-/* Mobile styles (480px and below) */
+
 @media (max-width: 480px) {
   .loading-container {
     padding: 40px 15px;
