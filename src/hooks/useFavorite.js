@@ -12,3 +12,4 @@ export function useFavorite(recipeId) {
 
   return { isFavorite, toggle };
 }
+

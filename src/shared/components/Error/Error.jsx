@@ -9,3 +9,4 @@ export function Error({ message = 'Something went wrong. Please try again later.
     </div>
   );
 }
+

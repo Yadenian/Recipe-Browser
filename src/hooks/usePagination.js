@@ -38,3 +38,4 @@ export function usePagination({ totalItems, itemsPerPage = 30 }) {
     reset,
   };
 }
+

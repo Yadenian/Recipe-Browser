@@ -44,3 +44,4 @@ export function RecipeCard({ recipe }) {
     </Link>
   );
 }
+

@@ -44,7 +44,6 @@ export function Home() {
     }
   };
 
-  // Reset to page 1 when search changes or is cleared
   useEffect(() => {
     setCurrentPage(1);
   }, [debouncedSearch]);
