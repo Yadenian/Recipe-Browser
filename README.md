@@ -39,6 +39,8 @@ src/
 
 ## Getting Started
 
+For this project you need Node version 24.12 or higher
+
 ### Installation
 
 ```bash
@@ -54,12 +56,6 @@ npm run dev
 
 ```bash
 npm run build
-```
-
-### Preview
-
-```bash
-npm run preview
 ```
 
 ## Pages
