@@ -17,8 +17,7 @@ A modern Single Page Application for browsing recipes built with React, Redux To
 - **Redux Toolkit** - State management
 - **RTK Query** - Data fetching and caching
 - **React Router** - Navigation
-- **Vite** - Development server and build tool
-- **Webpack** - Alternative build tool
+- **Webpack** - Development server and build tool
 - **Native CSS** - Styling (no UI libraries)
 
 ## Project Structure
