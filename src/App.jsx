@@ -8,9 +8,12 @@ import { Favorites } from './pages/Favorites/Favorites';
 import './App.css';
 
 function App() {
+  const isGitHubPages = window.location.hostname === 'yadenian.github.io';
+  const basename = isGitHubPages ? '/Recipe-Browser' : '';
+  
   return (
     <Provider store={store}>
-      <Router>
+      <Router basename={basename}>
         <div className="app">
           <Navigation />
           <main className="app-main">
@@ -27,3 +30,4 @@ function App() {
 }
 
 export default App;
+

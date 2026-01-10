@@ -17,8 +17,7 @@ A modern Single Page Application for browsing recipes built with React, Redux To
 - **Redux Toolkit** - State management
 - **RTK Query** - Data fetching and caching
 - **React Router** - Navigation
-- **Vite** - Development server and build tool
-- **Webpack** - Alternative build tool
+- **Webpack** - Development server and build tool
 - **Native CSS** - Styling (no UI libraries)
 
 ## Project Structure
@@ -40,6 +39,8 @@ src/
 
 ## Getting Started
 
+For this project you need Node version 24.12 or higher
+
 ### Installation
 
 ```bash
@@ -57,12 +58,6 @@ npm run dev
 npm run build
 ```
 
-### Preview
-
-```bash
-npm run preview
-```
-
 ## Pages
 
 1. **Home** - Browse and search recipes
@@ -78,4 +73,5 @@ npm run preview
 ## API
 
 This application uses the [DummyJSON Recipes API](https://dummyjson.com/docs/recipes).
+
 
