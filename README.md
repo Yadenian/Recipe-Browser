@@ -1,6 +1,9 @@
 # Recipe Browser SPA
 
-A modern Single Page Application for browsing recipes built with React, Redux Toolkit (RTK Query), and Vite/Webpack.
+A modern Single Page Application for browsing recipes built with React, Redux Toolkit (RTK Query), and Webpack.
+
+
+Project is hosted on Github Pages: https://yadenian.github.io/Recipe-Browser/
 
 ## Features
 
